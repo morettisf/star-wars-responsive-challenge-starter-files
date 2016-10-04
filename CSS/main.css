@@ -1,0 +1,30 @@
+header {
+	margin-top: 0;
+	height: 100px;
+	width: 100%;
+	background-color: gold;
+}
+
+h1 {
+	font-size: 2.5em;
+	margin: 0 auto;
+	padding: 10px 30px 0;
+	width: 1000px;
+}
+
+h2 {
+	font-size: 1em;
+	width: 1000px;
+	padding: 0 30px;
+	margin: 10px auto;
+}
+
+h3 {
+	font-size: 1em;
+	font-weight: bold;
+	padding-left: 20px;
+}
+
+p {
+	padding-left: 20px;
+}
